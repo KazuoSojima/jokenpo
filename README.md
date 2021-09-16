@@ -1,6 +1,6 @@
 # jokenpo
 
-A new Flutter project.
+Jogo de jokenpo "usuário vs app"
 
 ## Getting Started
 
